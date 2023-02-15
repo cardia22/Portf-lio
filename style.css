@@ -469,3 +469,9 @@ footer {
     margin-top: 18%;
   }
 }
+
+@media (max-width: 347px){
+  #aboutText > strong{
+    font-size: 0.9em;
+  }
+}
